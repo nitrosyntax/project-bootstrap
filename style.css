@@ -1,0 +1,18 @@
+.text-design {
+    font-family:'Arial', sans-serif;
+    color:rgb(85, 82, 70);
+}
+
+.text-size {
+    font-size:large;
+    font-family: 'Arial', sans-serif;
+}
+
+.btn-color {
+    background-color:rgb(206, 206, 206) ;
+    color:rgb(60, 58, 50);
+}
+body {
+    font-family:'Arial', sans-serif;
+    color:rgb(103, 96, 67);
+}
